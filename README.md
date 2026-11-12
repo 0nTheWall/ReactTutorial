@@ -1,2 +1,2 @@
 # ReactTutorial
-Created with CodeSandbox
+Created a simple game of Tic-Tac-Toe.
